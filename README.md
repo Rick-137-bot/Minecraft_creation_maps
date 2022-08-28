@@ -1,0 +1,2 @@
+# Minecraft_creation_maps
+放到地图文件夹就可以运行
